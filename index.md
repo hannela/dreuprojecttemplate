@@ -16,7 +16,7 @@ Contact me at hjane@mills.edu
 
 My mentor is Colleen Lewis, who studies Computer Science Education at the University of Illinois Urbana-Champaign.
 
-[Website](https://publish.illinois.edu/colleenlewis/)
+[Colleen's Website](https://publish.illinois.edu/colleenlewis/)
 
 ## About My Project
 
