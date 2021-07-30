@@ -20,7 +20,7 @@ My mentor is Colleen Lewis, who studies Computer Science Education at the Univer
 
 ## About My Project
 
-I will be analyzing data on CSED funding in California K-12 schools to find patterns in overall funding and how much of that funding goes to Computer Science electives. Seperately, I'm collecting data on gender distributions in upper division Computer Science electives at universities in the hopes of finding meaningful patterns.
+I'm collecting data on gender distributions among students and instructors in upper division Computer Science electives at University of Illinois Urbana-Champaign in the hopes of finding meaningful patterns that can inform future research and pedagogy.
 
 [My Final Report](files/finalreport.pdf)
 
