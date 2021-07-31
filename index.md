@@ -22,7 +22,7 @@ My mentor is Colleen Lewis, who studies Computer Science Education at the Univer
 
 I'm collecting data on gender distributions among students and instructors in upper division Computer Science electives at University of Illinois Urbana-Champaign in the hopes of finding meaningful patterns that can inform future research and pedagogy.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/DREU Final Report.pdf)
 
 ## My Blog
 
